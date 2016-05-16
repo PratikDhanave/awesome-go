@@ -1263,6 +1263,7 @@ Where to discover new Go libraries.
 * [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read)
 * [An Introduction to Programming in Go](http://www.golang-book.com/)
 * [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+* [Write Web Application in Go, the anti textbook](https://www.gitbook.com/book/thewhitetulip/webapp-with-golang-anti-textbook/)
 * [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 * [Go Bootcamp](http://golangbootcamp.com)
 * [GoBooks](https://github.com/dariubs/GoBooks) - A curated list of Go books
